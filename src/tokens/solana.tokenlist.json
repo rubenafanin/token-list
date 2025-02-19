@@ -1,9 +1,9 @@
 {
   "chainId": 101,
-  "address": "ErgPBCWJL8VfTa2fAX6ihXHMSUmjBSKH16qMbtv1z7f4",
-  "symbol": "ARKS",
-  "name": "Arkeanos",
-  "decimals": 9,
-  "logoURI": "https://ipfs.io/ipfs/QmV4iFxsjHpFyi7655hXNaWb3jUM151ksuFkEmgpwvA22F",
-  "tags": ["utility-token"]
+  "address": "x8Kx9msaFajgDkQdDFnsEUsisXJPSu18eJ5UUxVsHvJ",
+  "symbol": "JAVI",
+  "name": "Javiercoins",
+  "decimals": 6,
+  "logoURI": "https://ipfs.io/ipfs/QmUcc1WDFvC5vqEErbWyCiGeGGyPRDA2SAni8YE2RLyj17",
+  "tags": ["meme", "defi"]
 }
